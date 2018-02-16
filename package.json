@@ -13,8 +13,10 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.1.1",
     "mongoose": "^5.0.6",
-    "nodemon": "^1.15.0"
+    "nodemon": "^1.15.0",
+    "path": "^0.12.7"
   }
 }

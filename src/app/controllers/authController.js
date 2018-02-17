@@ -1,6 +1,6 @@
 const express = require('express');
 const bcrypt = require('bcryptjs');
-const User = require('../model/User');
+const User = require('../models/User');
 const jwt = require('jsonwebtoken');
 const crypto = require('crypto');
 
